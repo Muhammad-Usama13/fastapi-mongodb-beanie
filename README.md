@@ -24,9 +24,10 @@ app/
 ├── schemas/       # Pydantic models & Beanie documents (Data Contracts)
 ├── services/      # Business logic & Repository pattern (UserService)
 ├── routers/       # HTTP endpoints
-└── main.py        # Application entry point & lifespan events
+└── main.py        # Application entry point & lifespan events```
 
-##🚀 Getting Started
+    
+## 🚀 Getting Started
 Prerequisites
 
     Python 3.12 or higher installed.
